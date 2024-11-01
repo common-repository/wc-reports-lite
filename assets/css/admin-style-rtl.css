@@ -1,0 +1,8 @@
+.wcrl_filterBox .form-field{
+    float: right;
+}
+.woo_pro_content,span.wooreports_logo{float: right;}
+.woo_pro_content{width: 27%;margin-right: 30px;}
+.woo_pro_features{margin-top: 30px;display: flex;flex-wrap: wrap;}
+.woo_pro_features .wcrl_col {flex: 0 0 28.9%;margin: 2.2%;}
+.woo_pro_features .wcrl_col img{border:1px solid #dee2e6!important;max-width: 100%;height: auto;}

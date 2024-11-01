@@ -1,0 +1,843 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Reports for WooCommerce Lite\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-04 15:39+0330\n"
+"PO-Revision-Date: 2020-11-04 15:39+0330\n"
+"Last-Translator: pkhsr <info@progpars.net>\n"
+"Language-Team: https://nikanwp.ir\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-KeywordsList: esc_html__;_e;__;esc_html_e\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/admin-pages/wcrl-categories.php:14
+#: includes/class-wcrl-admin-menus.php:30
+msgid "Categories"
+msgstr "دسته بندی ها"
+
+#: includes/admin-pages/wcrl-categories.php:15
+msgid "Category"
+msgstr "دسته بندی"
+
+#: includes/admin-pages/wcrl-categories.php:98
+#: includes/admin-pages/wcrl-coupons.php:85
+#: includes/admin-pages/wcrl-locations.php:91
+#: includes/admin-pages/wcrl-orders-status.php:81
+#: includes/admin-pages/wcrl-orders.php:103
+#: includes/admin-pages/wcrl-payment-gateway.php:81
+#: includes/admin-pages/wcrl-products.php:106
+#: includes/admin-pages/wcrl-shippings.php:89 includes/admin-pages/wcrl-tax.php:110
+msgid "No orders found."
+msgstr "سفارشی یافت نشد."
+
+#: includes/admin-pages/wcrl-categories.php:127
+#: includes/admin-pages/wcrl-overview.php:296
+msgid "Category Name"
+msgstr "نام دسته بندی"
+
+#: includes/admin-pages/wcrl-categories.php:128
+#: includes/admin-pages/wcrl-products.php:153
+msgid "Orders Placed"
+msgstr "تعداد سفارشات"
+
+#: includes/admin-pages/wcrl-categories.php:129
+#: includes/admin-pages/wcrl-products.php:154
+msgid "Items Purchased"
+msgstr "تعداد اقلام خریداری شده از هر سفارش"
+
+#: includes/admin-pages/wcrl-categories.php:130
+#: includes/admin-pages/wcrl-locations.php:127
+#: includes/admin-pages/wcrl-orders-status.php:110
+#: includes/admin-pages/wcrl-orders.php:159
+#: includes/admin-pages/wcrl-overview.php:218
+#: includes/admin-pages/wcrl-overview.php:298
+#: includes/admin-pages/wcrl-overview.php:430
+#: includes/admin-pages/wcrl-overview.php:490
+#: includes/admin-pages/wcrl-payment-gateway.php:109
+#: includes/admin-pages/wcrl-products.php:155
+msgid "Total Amount"
+msgstr "مجموع فروش"
+
+#: includes/admin-pages/wcrl-categories.php:186
+msgid "Report Based On Categories"
+msgstr "گزارش بر اساس دسته بندی ها"
+
+#: includes/admin-pages/wcrl-coupons.php:14 includes/class-wcrl-admin-menus.php:31
+msgid "Coupons"
+msgstr "کوپن های تخفیف"
+
+#: includes/admin-pages/wcrl-coupons.php:15
+msgid "Coupon"
+msgstr "کوپن"
+
+#: includes/admin-pages/wcrl-coupons.php:111
+#: includes/admin-pages/wcrl-overview.php:368
+msgid "Coupon Name"
+msgstr "نام کوپن"
+
+#: includes/admin-pages/wcrl-coupons.php:112
+#: includes/admin-pages/wcrl-overview.php:369
+msgid "Coupons Used In Total"
+msgstr "کوپن های مورد استفاده در مجموع"
+
+#: includes/admin-pages/wcrl-coupons.php:113
+#: includes/admin-pages/wcrl-overview.php:370
+msgid "Discounts In Total"
+msgstr "تخفیف در مجموع"
+
+#: includes/admin-pages/wcrl-coupons.php:169
+msgid "Report Based On Discount Coupons"
+msgstr "گزارش بر اساس کوپن های تخفیف"
+
+#: includes/admin-pages/wcrl-locations.php:14
+#: includes/admin-pages/wcrl-payment-gateway.php:14
+msgid "PaymentGateways"
+msgstr "درگاه های پرداخت"
+
+#: includes/admin-pages/wcrl-locations.php:15
+#: includes/admin-pages/wcrl-payment-gateway.php:15
+msgid "PaymentGateway"
+msgstr "درگاه پرداخت"
+
+#: includes/admin-pages/wcrl-locations.php:123
+#: includes/admin-pages/wcrl-overview.php:488
+msgid "Country"
+msgstr "کشور"
+
+#: includes/admin-pages/wcrl-locations.php:124
+msgid "State"
+msgstr "استان"
+
+#: includes/admin-pages/wcrl-locations.php:125
+msgid "City"
+msgstr "شهر"
+
+#: includes/admin-pages/wcrl-locations.php:126
+#: includes/admin-pages/wcrl-orders-status.php:109
+#: includes/admin-pages/wcrl-overview.php:217
+#: includes/admin-pages/wcrl-overview.php:297
+#: includes/admin-pages/wcrl-overview.php:429
+#: includes/admin-pages/wcrl-overview.php:489
+#: includes/admin-pages/wcrl-payment-gateway.php:108
+#: includes/admin-pages/wcrl-tax.php:153
+msgid "Quantity Orders"
+msgstr "تعداد سفارشات"
+
+#: includes/admin-pages/wcrl-locations.php:183
+msgid "Report Based On Locations"
+msgstr "گزارش بر اساس موقعیت های مکانی"
+
+#: includes/admin-pages/wcrl-orders-status.php:15
+msgid "OrderStatus"
+msgstr "وضعیت سفارشات"
+
+#: includes/admin-pages/wcrl-orders-status.php:16
+msgid "OrdersStatus"
+msgstr "وضعیت های سفارش"
+
+#: includes/admin-pages/wcrl-orders-status.php:108
+msgid "Order Status"
+msgstr "وضعیت های سفارش"
+
+#: includes/admin-pages/wcrl-orders-status.php:165
+msgid "Report Based On Orders Status"
+msgstr "گزارش بر اساس وضعیت های سفارش"
+
+#: includes/admin-pages/wcrl-orders.php:14 includes/class-wcrl-admin-menus.php:28
+msgid "Orders"
+msgstr "سفارشات"
+
+#: includes/admin-pages/wcrl-orders.php:15
+msgid "Order"
+msgstr "سفارش"
+
+#: includes/admin-pages/wcrl-orders.php:126
+msgid "Display Products"
+msgstr "نمایش محصولات"
+
+#: includes/admin-pages/wcrl-orders.php:152
+#: includes/admin-pages/wcrl-shippings.php:119
+msgid "Order Number"
+msgstr "شماره سفارش"
+
+#: includes/admin-pages/wcrl-orders.php:153
+#: includes/admin-pages/wcrl-shippings.php:121
+#: includes/class-wcrl-search-date.php:85
+msgid "Date"
+msgstr "تاریخ"
+
+#: includes/admin-pages/wcrl-orders.php:154
+msgid "Status"
+msgstr "وضعیت"
+
+#: includes/admin-pages/wcrl-orders.php:155
+#: includes/admin-pages/wcrl-overview.php:137
+msgid "Quantity"
+msgstr "تعداد سفارش"
+
+#: includes/admin-pages/wcrl-orders.php:156
+msgid "Products Purchased"
+msgstr "محصولات خریداری شده"
+
+#: includes/admin-pages/wcrl-orders.php:157
+#: includes/admin-pages/wcrl-shippings.php:15
+msgid "Shipping"
+msgstr "حمل و نقل"
+
+#: includes/admin-pages/wcrl-orders.php:158
+msgid "Discount"
+msgstr "تخفیف"
+
+#: includes/admin-pages/wcrl-orders.php:227
+msgid "Report Based On Orders"
+msgstr "گزارشات سفارشات"
+
+#: includes/admin-pages/wcrl-overview.php:26
+msgid "Overview Orders"
+msgstr "مرور کلی سفارشات"
+
+#: includes/admin-pages/wcrl-overview.php:27
+msgid "Top Products"
+msgstr "برترین محصولات"
+
+#: includes/admin-pages/wcrl-overview.php:28
+msgid "Top Categories"
+msgstr "برترین دسته بندی ها"
+
+#: includes/admin-pages/wcrl-overview.php:29
+msgid "Top Coupons"
+msgstr "برترین کوپن های تخفیف"
+
+#: includes/admin-pages/wcrl-overview.php:30
+msgid "Top Payment Gateway"
+msgstr "برترین درگاه های پرداخت"
+
+#: includes/admin-pages/wcrl-overview.php:31
+msgid "Top Locations"
+msgstr "برترین موقعیت های مکانی"
+
+#: includes/admin-pages/wcrl-overview.php:138
+msgid "Amount"
+msgstr "مجموع فروش"
+
+#: includes/admin-pages/wcrl-overview.php:141
+msgid "Today:"
+msgstr "امروز :"
+
+#: includes/admin-pages/wcrl-overview.php:145
+msgid "Yesterday:"
+msgstr "دیروز :"
+
+#: includes/admin-pages/wcrl-overview.php:150
+msgid "Last 7 Days (Week):"
+msgstr "۷ روز گذشته (هفته)"
+
+#: includes/admin-pages/wcrl-overview.php:155
+msgid "Last 30 Days (Month):"
+msgstr "۳۰ روز گذشته (ماه)"
+
+#: includes/admin-pages/wcrl-overview.php:160
+msgid "Last 365 Days (Year):"
+msgstr "۳۶۵ روز گذشته (سال‌)"
+
+#: includes/admin-pages/wcrl-overview.php:215
+#: includes/admin-pages/wcrl-overview.php:295
+#: includes/admin-pages/wcrl-overview.php:367
+#: includes/admin-pages/wcrl-overview.php:427
+#: includes/admin-pages/wcrl-overview.php:487
+msgid "Rank"
+msgstr "رتبه"
+
+#: includes/admin-pages/wcrl-overview.php:216
+#: includes/admin-pages/wcrl-products.php:152
+msgid "Product Name"
+msgstr "نام محصول"
+
+#: includes/admin-pages/wcrl-overview.php:428
+#: includes/admin-pages/wcrl-payment-gateway.php:107
+msgid "Payment Methods"
+msgstr "روش های پرداخت"
+
+#: includes/admin-pages/wcrl-overview.php:517
+#: includes/class-wcrl-admin-menus.php:40
+msgid "Overview"
+msgstr "مرور کلی"
+
+#: includes/admin-pages/wcrl-overview.php:522
+msgid "Filter"
+msgstr "فیلتر"
+
+#: includes/admin-pages/wcrl-payment-gateway.php:165
+msgid "Report Based On Payment Gateways"
+msgstr "گزارش بر اساس درگاه های پرداخت"
+
+#: includes/admin-pages/wcrl-products.php:15 includes/class-wcrl-admin-menus.php:29
+msgid "Products"
+msgstr "محصولات"
+
+#: includes/admin-pages/wcrl-products.php:16
+msgid "Product"
+msgstr "محصول"
+
+#: includes/admin-pages/wcrl-products.php:224
+msgid "Report Based On Products"
+msgstr "گزارش بر اساس محصولات"
+
+#: includes/admin-pages/wcrl-settings.php:29
+msgid "General Settings saved."
+msgstr "تنظیمات با موفقیت ذخیره شد."
+
+#: includes/admin-pages/wcrl-settings.php:42 includes/class-wcrl-admin-menus.php:38
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: includes/admin-pages/wcrl-settings.php:47
+msgid "General Settings"
+msgstr "تنظیمات عمومی"
+
+#: includes/admin-pages/wcrl-settings.php:55
+msgid "The number of reports per widget in overview page :"
+msgstr "تعداد نمایش گزارشات برای هر ویجت در صفحه مرور کلی :"
+
+#: includes/admin-pages/wcrl-settings.php:59
+msgid "By default, 10 reports"
+msgstr "به صورت پیش فرض, ۱۰ گزارش"
+
+#: includes/admin-pages/wcrl-settings.php:64
+msgid "Save Settings"
+msgstr "ذخیره تنظیمات"
+
+#: includes/admin-pages/wcrl-shippings.php:14
+#: includes/class-wcrl-admin-menus.php:35
+msgid "Shippings"
+msgstr "حمل و نقل"
+
+#: includes/admin-pages/wcrl-shippings.php:120
+msgid "Shipping Methods"
+msgstr "روش های حمل و نقل"
+
+#: includes/admin-pages/wcrl-shippings.php:122
+msgid "Total"
+msgstr "مجموع"
+
+#: includes/admin-pages/wcrl-shippings.php:177
+msgid "Report Based On Shippings"
+msgstr "گزارش بر اساس روش های حمل و نقل"
+
+#: includes/admin-pages/wcrl-stock.php:13
+msgid "No out of stock products found."
+msgstr "هیچ محصولی در انبار یافت نشد."
+
+#: includes/admin-pages/wcrl-stock.php:82
+msgid "most stocked"
+msgstr "موجود در انبار"
+
+#: includes/admin-pages/wcrl-stock.php:83
+msgid "out of stock"
+msgstr "تمام شده"
+
+#: includes/admin-pages/wcrl-tax.php:14
+msgid "Taxes"
+msgstr "مالیات"
+
+#: includes/admin-pages/wcrl-tax.php:15 includes/class-wcrl-admin-menus.php:36
+msgid "Tax"
+msgstr "‫مالیات"
+
+#: includes/admin-pages/wcrl-tax.php:151
+msgid "Tax Name"
+msgstr "نام مالیات"
+
+#: includes/admin-pages/wcrl-tax.php:152
+msgid "Tax Rate"
+msgstr "نرخ مالیات"
+
+#: includes/admin-pages/wcrl-tax.php:154
+msgid "Order Amount"
+msgstr "مقدار سفارش"
+
+#: includes/admin-pages/wcrl-tax.php:155
+msgid "Shipping Amount"
+msgstr "مقدار حمل و نقل"
+
+#: includes/admin-pages/wcrl-tax.php:156
+msgid "Order Tax"
+msgstr "مالیات سفارش"
+
+#: includes/admin-pages/wcrl-tax.php:157
+msgid "Shipping Tax"
+msgstr "مالیات حمل و نقل"
+
+#: includes/admin-pages/wcrl-tax.php:158
+msgid "Total Tax"
+msgstr "مجموع مالیات"
+
+#: includes/admin-pages/wcrl-tax.php:218
+msgid "Report Based On Taxes"
+msgstr "گزارش گیری بر اساس مالیات"
+
+#: includes/class-wcrl-admin-assets.php:21 includes/class-wcrl-admin-menus.php:27
+#: includes/class-wcrl-search-date.php:78
+msgid "WooReports"
+msgstr ""
+
+#: includes/class-wcrl-admin-menus.php:32
+msgid "Payment Gateway"
+msgstr "درگاه های پرداخت"
+
+#: includes/class-wcrl-admin-menus.php:33
+msgid "Orders Status"
+msgstr "وضعیت های سفارش"
+
+#: includes/class-wcrl-admin-menus.php:34
+msgid "Locations"
+msgstr "موقعیت مکانی"
+
+#: includes/class-wcrl-admin-menus.php:37
+msgid "Stock"
+msgstr "انبار"
+
+#: includes/class-wcrl-admin-menus.php:39
+msgid "Upgrade to WooReports Pro!"
+msgstr "ارتقا حسابرس ووکامرس به نسخه حرفه ای!"
+
+#: includes/class-wcrl-admin-menus.php:39
+msgid "PRO Features"
+msgstr "نسخه حرفه ای"
+
+#: includes/class-wcrl-admin-menus.php:158
+msgid "WooReports Pro"
+msgstr "حسابرس ووکامرس نسخه حرفه ای"
+
+#: includes/class-wcrl-admin-menus.php:159
+msgid "Great features with the pro version of the WooReports plugin"
+msgstr "ویژگی های عالی با ارتقا به نسخه حرفه ای افزونه حسابرس ووکامرس"
+
+#: includes/class-wcrl-admin-menus.php:160
+msgid "Upgrade to pro version"
+msgstr "ارتقا حسابرس ووکامرس به نسخه حرفه ای"
+
+#: includes/class-wcrl-admin-menus.php:168
+msgid "Profit Of Sales Report"
+msgstr "محاسبه سود و زیان فروشگاه"
+
+#: includes/class-wcrl-admin-menus.php:169
+msgid ""
+"You can enter the cost of each product at the same time as the price of the "
+"product, so that your profit and loss reporting system displays your store. "
+"also, you can set cost for products simple and variable."
+msgstr ""
+"گزینه ای تحت عنوان هزینه بها به باکس اطلاعات محصول ووکامرس اضافه میشود که "
+"شما کافیست در کنار قیمت محصول،هزینه بهای محصول را وارد کنید تا حسابرس "
+"ووکامرس سود و زیان حاصل از فروش محصولات شما را محاسبه نماید."
+
+#: includes/class-wcrl-admin-menus.php:173
+msgid "Export Reports"
+msgstr "قابلیت گرفتن خروجی اکسال از گزارشات"
+
+#: includes/class-wcrl-admin-menus.php:174
+msgid ""
+"In all type of the reports, it is possible to export reports received in "
+"PDF, CSV, Excel, Print formats."
+msgstr ""
+"در تمام گزارشات فروش،این امکان وجود دارد که شما بتوانید از گزارشات بدست آمده "
+"بخش های مختلف گزارش گیری،خروجی اکسل بگیرید و یا مستقیما آن گزارشات را پرینت "
+"نمایید."
+
+#: includes/class-wcrl-admin-menus.php:178
+msgid "Advance Search Filter"
+msgstr "فیلتر جستجو پیشرفته"
+
+#: includes/class-wcrl-admin-menus.php:179
+msgid ""
+"There is a separate search report for each page. For example, you can filter "
+"your sales reports for a specific product."
+msgstr ""
+"فیلتر جستجو پیشرفته ای در تمام قسمت های گزارش گیری قراردادیم که به راحتی "
+"بتوانید گزارشات خود را بدست بیاورید،مثلا شما در گزارشات فروش محصولات "
+"میتوانید جستجو کنید که چه محصولاتی از چه تاریخ تا چه تاریخی و بر اساس چه "
+"وضعیت سفارشی فروش رفته است."
+
+#: includes/class-wcrl-admin-menus.php:183
+msgid "Email Scheduler"
+msgstr "ارسال خودکار گزارشات به ایمیل"
+
+#: includes/class-wcrl-admin-menus.php:184
+msgid ""
+"In the plugin settings you can set a summary of your sales reports in a "
+"timed manner."
+msgstr ""
+"‫در صورتی که دوست داشته باشید که خلاصه گزارشات فروشگاه به صورت خودکار برای "
+"شما ایمیل شود،این امکان وجود دارد که به صورت زمان بندی شده گزارشات را تنظیم "
+"کنید و درست در همان زمان گزارشات فروشگاه برای شما ارسال شود."
+
+#: includes/class-wcrl-admin-menus.php:188
+msgid "Visual Reports"
+msgstr "نمایش گزارشات در نمودار"
+
+#: includes/class-wcrl-admin-menus.php:189
+msgid ""
+"In all type of the reports, you can view the reports in both the bar chart "
+"and line chart."
+msgstr ""
+"معمولا برای درک بهتر و تحلیل سریع تر فروش براساس گزارشات مختلف نیاز هست که "
+"گزارشات در نمودار نمایش داده شود برای همین ما دو نوع نمودار میله ای و خطی در "
+"تمام قسمت های گزارش گیری قرارداده ایم تا بتوانید گزارشات بدست آمده را در "
+"نمودار مشاهده کنید."
+
+#: includes/class-wcrl-admin-menus.php:193
+msgid "Dokan Integration"
+msgstr "هماهنگی با دکان"
+
+#: includes/class-wcrl-admin-menus.php:194
+msgid ""
+"If you use the Dokan plugin, you can view sales reports from your sellers."
+msgstr ""
+"اگر از افزونه دکان(Dokan) استفاده می کنید ، می توانید گزارش فروش فروشندگان "
+"خود را مشاهده کنید."
+
+#: includes/class-wcrl-admin-menus.php:198
+msgid "Customer Reports"
+msgstr "گزارشات مشتریان"
+
+#: includes/class-wcrl-admin-menus.php:199
+msgid ""
+"You may need to see all the orders and products of a particular customer in "
+"a certain period of time and access their information, so customer reporting "
+"with an advanced search filter will help you to Get reports."
+msgstr ""
+"شاید برای شما پیش آمده باشد که نیاز داشته باشید تمام سفارشات و محصولات یک "
+"مشتری خاص را در یک بازه زمانی مشخص مشاهده کنید و به اطلاعاتشون دسترسی پیدا "
+"کنید،برای همین گزارش گیری بخش مشتریان با دارا بودن فیلتر جستجو پیشرفته به "
+"شما کمک میکند تا این گزارشات را بدست بیاورید."
+
+#: includes/class-wcrl-admin-menus.php:224 includes/class-wcrl-admin-menus.php:236
+#: includes/class-wcrl-admin-menus.php:249 includes/class-wcrl-admin-menus.php:262
+#: includes/class-wcrl-admin-menus.php:274 includes/class-wcrl-admin-menus.php:286
+#: includes/class-wcrl-admin-menus.php:298 includes/class-wcrl-admin-menus.php:310
+#: includes/class-wcrl-admin-menus.php:323
+msgid "Reports"
+msgstr "گزارشات"
+
+#: includes/class-wcrl-filters.php:13
+msgid "all"
+msgstr "همه"
+
+#: includes/class-wcrl-filters.php:19
+msgid "All Order Statuses"
+msgstr "وضعیت های سفارش"
+
+#: includes/class-wcrl-search-date.php:87
+msgid "Select Date"
+msgstr "انتخاب زمان"
+
+#: includes/class-wcrl-search-date.php:88
+msgid "Today"
+msgstr "‫امروز"
+
+#: includes/class-wcrl-search-date.php:89
+msgid "Yesterday"
+msgstr "‫دیروز"
+
+#: includes/class-wcrl-search-date.php:90
+msgid "Last Week"
+msgstr "هفته گذشته"
+
+#: includes/class-wcrl-search-date.php:91
+msgid "Last Month"
+msgstr "‫ماه گذشت"
+
+#: includes/class-wcrl-search-date.php:92
+msgid "Last Year"
+msgstr "‫سال گذشت"
+
+#: includes/class-wcrl-search-date.php:96
+msgid "Search"
+msgstr "جستجو"
+
+#: wooreports.php:37
+msgid "Get Pro"
+msgstr "دریافت نسخه حرفه ای"
+
+#~ msgid "From %s To %s"
+#~ msgstr "از %s تا %s"
+
+#~ msgid "Customer"
+#~ msgstr "مشتری"
+
+#~ msgid "View orders"
+#~ msgstr "مشاهده سفارشات"
+
+#~ msgid "Customer Name"
+#~ msgstr "نام مشتری"
+
+#~ msgid "Email"
+#~ msgstr "ایمیل"
+
+#~ msgid "Phone"
+#~ msgstr "شماره تماس"
+
+#~ msgid "Report Based On Customers"
+#~ msgstr "گزارش براساس مشتریان"
+
+#~ msgid "Total Order"
+#~ msgstr "مجموع فروش"
+
+#~ msgid "Top Customers"
+#~ msgstr "برترین مشتریان"
+
+#~ msgid "Top Profits"
+#~ msgstr "پر سود ترین محصولات"
+
+#~ msgid "Full Name"
+#~ msgstr "نام"
+
+#~ msgid "Total Sale"
+#~ msgstr "مجموع فروش"
+
+#~ msgid "Profit"
+#~ msgstr "سود / زیان"
+
+#~ msgid "Line Chart"
+#~ msgstr "نمودار خطی"
+
+#~ msgid "Bar Chart"
+#~ msgstr "نمودار میله ای"
+
+#~ msgid "Table Data"
+#~ msgstr "اطلاعات جدول"
+
+#~ msgid "Total Cost"
+#~ msgstr "کل هزینه بها"
+
+#~ msgid "Report Based On Profit"
+#~ msgstr "گزارش بر اساس سود و زیان"
+
+#~ msgid "The start or end date range can not be empty"
+#~ msgstr "محدوده تاریخ شروع یا پایان نمی تواند خالی باشد‬"
+
+#~ msgid "Test Mail ..."
+#~ msgstr "تست ایمیل …"
+
+#~ msgid "Schedule Email Reports Settings saved."
+#~ msgstr "تنظیمات گزارش های زمان بندی شده با ایمیل ذخیره شد."
+
+#~ msgid "Schedule Email Reports"
+#~ msgstr "‫ گزارش های زمان بندی شده با ایمیل"
+
+#~ msgid "Default date range for reports :"
+#~ msgstr "محدوده پیش فرض تاریخ برای گزارشات‌ :"
+
+#~ msgid "Date From"
+#~ msgstr "از تاریخ"
+
+#~ msgid "Date To"
+#~ msgstr "‫تا تاریخ"
+
+#~ msgid "Charts type :"
+#~ msgstr "نوع چارت ها :"
+
+#~ msgid "Bar"
+#~ msgstr "میله ای"
+
+#~ msgid "Line"
+#~ msgstr "خطی"
+
+#~ msgid "Failure to calculate profit and loss for products at no cost"
+#~ msgstr "عدم محاسبه سود/زیان در هر سفارش برای محصولات بدون هزینه"
+
+#~ msgid "Enable"
+#~ msgstr "فعال کردن"
+
+#~ msgid "Show cog order item meta in order details"
+#~ msgstr "نمایش متاهای هزینه در جزییات سفارش"
+
+#~ msgid "Active Email Reporting :"
+#~ msgstr "فعال کردن گزارش گیری زمان بندی شده با ایمیل :"
+
+#~ msgid "Every"
+#~ msgstr "هر"
+
+#~ msgid "Day"
+#~ msgstr "روز"
+
+#~ msgid "Week"
+#~ msgstr "هفته"
+
+#~ msgid "Year"
+#~ msgstr "سال"
+
+#~ msgid "Next reports will be sent on"
+#~ msgstr "گزارش های بعدی ارسال خواهد شد"
+
+#~ msgid "Email Template Settings :"
+#~ msgstr "‫تنظیمات ارسال ایمیل :"
+
+#~ msgid "Email Send To (Set Receiver Email)"
+#~ msgstr "ارسال ایمیله به (آدرس ایمیلی که میخواهید گزارش برای آن ارسال شود)"
+
+#~ msgid "From Name (Set Sender Name)"
+#~ msgstr "نام ایمیل ارسال کننده"
+
+#~ msgid "From Email (Set Sender Email)"
+#~ msgstr "ایمیل از (میل سروری که ایمیل از آن ارسال میشود)"
+
+#~ msgid "Subject (Set Email Subject)"
+#~ msgstr "موضوع ایمیل"
+
+#~ msgid "Test Mail"
+#~ msgstr "تست ایمیل"
+
+#~ msgid "Cost of Good (%s)"
+#~ msgstr "هزینه بهای تمام شده (%s)"
+
+#~ msgid "Default cost for product variations"
+#~ msgstr "هزینه پیش فرض برای محصولات متغیر"
+
+#~ msgid "Set cost"
+#~ msgstr "تنظیم هزینه"
+
+#~ msgid "Cost of Good: (%s)"
+#~ msgstr "هزینه بهای تمام شده : (%s)"
+
+#~ msgid "Cost of Good"
+#~ msgstr "‫هزینه بهای تمام شده"
+
+#~ msgid "— No Change —"
+#~ msgstr "— بدون تغییر —"
+
+#~ msgid "Change to:"
+#~ msgstr "تغییر به:"
+
+#~ msgid "Increase by (fixed amount or %):"
+#~ msgstr "افزایش (مقدار ثابت یا % ) :"
+
+#~ msgid "Decrease by (fixed amount or %):"
+#~ msgstr "کاهش(مقدار ثابت یا %) :"
+
+#~ msgid "Copy to clipboard"
+#~ msgstr "کپی در کلیپبورد"
+
+#~ msgid "Excel Export"
+#~ msgstr "خروجی اکسل"
+
+#~ msgid "CSV Export"
+#~ msgstr "خروجی CSV"
+
+#~ msgid "PDF Export"
+#~ msgstr "خروجی PDF"
+
+#~ msgid "Print"
+#~ msgstr "پرینت"
+
+#~ msgid "Sales Summary -"
+#~ msgstr "‫خلاصه فروش -"
+
+#~ msgid "Title"
+#~ msgstr "عنوان"
+
+#~ msgid "Total sales"
+#~ msgstr "مجموع فروش"
+
+#~ msgid "Order Tax Amount"
+#~ msgstr "مقدار مالیات سفارش"
+
+#~ msgid "Shipping Tax Amount"
+#~ msgstr "مقدار مالیات حمل و نقل"
+
+#~ msgid "Total Tax Amount"
+#~ msgstr "مجموع مالیات"
+
+#~ msgid "Order Statuses -"
+#~ msgstr "وضعیت های سفارش -"
+
+#~ msgid "Payment Gateway -"
+#~ msgstr "درگاه پرداخت -"
+
+#~ msgid "WooReports Schedules"
+#~ msgstr "ارسال گزارشات زمان بندی شده با ایمیل"
+
+#~ msgid "DATE FROM"
+#~ msgstr "از تاریخ"
+
+#~ msgid "DATE TO"
+#~ msgstr "تا تاریخ"
+
+#~ msgid "STATUS"
+#~ msgstr "وضعیت"
+
+#~ msgid "Filter by state"
+#~ msgstr "فیلتر بر اساس استان"
+
+#~ msgid "All State"
+#~ msgstr "تمام استان ها"
+
+#~ msgid "Customer name or email"
+#~ msgstr "نام یا ایمیل مشتری"
+
+#~ msgid "Available payment gateways"
+#~ msgstr "درگاه های پرداخت فعال"
+
+#~ msgid "All Gateways"
+#~ msgstr "تمام درگاه ها"
+
+#~ msgid "Available coupons"
+#~ msgstr "کوپن های تخفیف فعال"
+
+#~ msgid "All coupons"
+#~ msgstr "تمام کوپن های تخفیف"
+
+#~ msgid "All categories"
+#~ msgstr "تمام دسته بندی ها"
+
+#~ msgid "All Products"
+#~ msgstr "تمام محصولات"
+
+#~ msgid "wooreports"
+#~ msgstr "حسابرس ووکامرس"
+
+#~ msgid "mahdi"
+#~ msgstr "مهدی"
+
+#~ msgid "First Name"
+#~ msgstr "نام"
+
+#~ msgid "Filter by city"
+#~ msgstr "فیلتر بر اساس شهر"
+
+#~ msgid "Enable License"
+#~ msgstr "فعال سازی لایسنس"
+
+#~ msgid "Unit Price"
+#~ msgstr "قیمت واحد"
+
+#~ msgid "From Date"
+#~ msgstr "از تاریخ"
+
+#~ msgid "To Date"
+#~ msgstr "تا تاریخ"
+
+#~ msgid "Disable all charts :"
+#~ msgstr "مخفی نمودن چارت ها :"
+
+#~ msgid "The number of reports per page :"
+#~ msgstr "تعداد نمایش گزارش ها در هر صفحه :"
+
+#~ msgid "To"
+#~ msgstr "تا"
+
+#~ msgid "Enter Cost:"
+#~ msgstr "هزینه را وارد کنید :"
+
+#~ msgid "WooCommerce reporting system"
+#~ msgstr "‫افزونه حسابرس ووکامرس یعنی تحلیلگر سود و زیان فروشگاه ووکامرسی شما"
+
+#~ msgid "Progpars"
+#~ msgstr "پروگ پارس"
